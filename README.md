@@ -7,6 +7,8 @@ Although the app’s source code is **currently not public**, this repository se
 - Suggest new features 💡
 - Give general feedback 📬
 
+This repository will only be used temporarily while the source code of the app is private. When the source code gets released, this repository will not be used anymore.
+
 ---
 
 ## 💬 How to Provide Feedback

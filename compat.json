@@ -1,18 +1,15 @@
 {
   "schema": 1,
   "default": {
-    "blocked": false
+    "blocked": true,
+    "message": "This version is no longer supported. Please update to the latest version."
   },
   "rules": [
     {
-      "client": ">=1.0.0-0 <1.0.0-beta.6",
-      "blocked": true,
-      "message": "This beta is no longer supported. Please update to a newer version."
-    },
-    {
-      "client": "1.0.0-beta.6",
+      "client": "0.12.1",
       "allowServer": ">=0.30.6",
-      "message": "Beta 6 requires server version 0.30.6 or newer."
+      "blocked": false,
+      "message": "Please update the server to version 0.30.6 or newer."
     }
   ],
   "meta": {
@@ -20,4 +17,3 @@
     "recommendedPollHours": 24
   }
 }
-

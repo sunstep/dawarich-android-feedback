@@ -12,8 +12,4 @@
       "message": "Please update the server to version 0.30.6 or newer."
     }
   ],
-  "meta": {
-    "updated": "2025-08-11T00:21:40Z",
-    "recommendedPollHours": 24
-  }
 }
